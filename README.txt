@@ -19,6 +19,7 @@ Participant data Base pour manager la base de données pour les utilisateurs et 
 Widgets:
 MailChimp qui permet à l'administrateur de reçevoir des notifications lorsqu'un nouvel utilisateur s'inscrit 
 Contact form formulaire de contact 
+un lien pour les plugins et Widgets: http://wpformation.com/plugins-installation-wordpress/
 TablePress pour intégrer un tableau Excel dans permettant de récolter des données 
 Pour finir mon Hébergeur est Hosgator que je préfère et qui est moins chèr avec un support 24/24 j'ai jamais eu de problème
 En cas de besoin je reste joignable par mon mail
