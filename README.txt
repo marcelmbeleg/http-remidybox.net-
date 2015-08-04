@@ -8,7 +8,7 @@ NB Quand on rédige les pages faire attention au "mot clé" ou TAG qui pemttent 
 Si on connait coder un peut modifier quelque partie comme le foter, mais avec beaucoup de précotion 
 Télecharger les Plugins et Widgets en fonction des besoins de son site
 Par exemple Wordpress pose des plugins importants d'abord les installer ensuite pour ma plateforme
-Plugins: Askimet pour les commentaires des utilisateurs
+Plugins: Akismet pour les commentaires des utilisateurs
 Yoast pour la sécurité du site et le SEO
 Super cache pour la mise en cache dans le cas où WP devient lent
 BCKUP WP pour les mises à jour
